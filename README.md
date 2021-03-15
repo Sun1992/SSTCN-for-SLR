@@ -4,6 +4,8 @@ Author: Bin Sun
 
 Email: sun.bi@northeastern.edu
 
+This code is for CVPR 2021 SLR Challenge. Using features from whole-pose HRNet for recognition. 
+
 install conda environment using environment.yaml
 
 Training:
