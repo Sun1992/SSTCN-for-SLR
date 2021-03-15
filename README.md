@@ -4,7 +4,7 @@ Author: Bin Sun
 
 Email: sun.bi@northeastern.edu
 
-install environment
+install conda environment using environment.yaml
 
 Training:
 
