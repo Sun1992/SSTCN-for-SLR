@@ -6,7 +6,7 @@ Email: sun.bi@northeastern.edu
 
 This code is for CVPR 2021 SLR Challenge. Using features from whole-pose HRNet for recognition. Please Cite the Paper 
 
-Skeleton Based Sign Language Recognition Using Whole-body Keypoints
+# Skeleton Based Sign Language Recognition Using Whole-body Keypoints
 
 @article{jiang2021skeleton,
   title={Skeleton Based Sign Language Recognition Using Whole-body Keypoints},
