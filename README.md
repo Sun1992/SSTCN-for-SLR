@@ -1,4 +1,4 @@
-# T-Pose-model-for-SLR
+# Separable Spatial-Temporal Convolution Network for SLR Based on Whole-body Pose
 
 Author: Bin Sun
 
