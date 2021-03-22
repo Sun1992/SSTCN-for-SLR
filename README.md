@@ -1,4 +1,4 @@
-# Separable Spatial-Temporal Convolution Network for SLR Based on Whole-body Pose
+# Separable Spatial-Temporal Convolution Network for Sign Language Recognition Based on Whole-body Pose
 
 Author: Bin Sun
 
