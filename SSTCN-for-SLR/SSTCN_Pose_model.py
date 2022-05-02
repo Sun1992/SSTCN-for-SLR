@@ -121,7 +121,7 @@ class TemporalBlock(nn.Module):
 
 class SpatialBlock(nn.Module):
 
-    def __init__(self, in_planes, planes, frames,mid, relu = True, stride=1, =None):
+    def __init__(self, in_planes, planes, frames,mid, relu = True, stride=1):
         super().__init__()
         # in_planes and planes are both n*joints_number, n is integer
         self.frames = frames
