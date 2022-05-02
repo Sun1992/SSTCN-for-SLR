@@ -83,7 +83,7 @@ def get_inplanes():
 
 class TemporalBlock(nn.Module):
 
-    def __init__(self, in_planes, planes,joints_number,mid, relu = True, stride=1, =None):
+    def __init__(self, in_planes, planes,joints_number,mid, relu = True, stride=1):
         super().__init__()
         # in_planes and planes are both n*joints_number, n is integer
         self.joints_number = joints_number
